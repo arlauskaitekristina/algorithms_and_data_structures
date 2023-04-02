@@ -1,3 +1,5 @@
+package seminar_03;
+
 public class seminar_03_task_01_myDList {
     Node Head, Tail;
     private class Node{
